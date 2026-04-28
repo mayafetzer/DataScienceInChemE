@@ -1,5 +1,10 @@
 # Data Science in Chemical Engineering
 
+Maya Fetzer
+Dr. Jude Okolie
+
+Bucknell University, Chemical Engineering
+
 This repository contains materials, notebooks, and a Jupyter Book built for exploring applications of data science in chemical engineering.
 
 It includes interactive content, code examples, and explanations designed to connect core chemical engineering concepts with modern data science tools.
