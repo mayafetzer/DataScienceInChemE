@@ -10,7 +10,7 @@ It includes interactive content, code examples, and explanations designed to con
 
 The published Jupyter Book is available here:
 
-👉 https://github.com/mayafetzer/DataScienceInChemE
+👉 https://mayafetzer.github.io/DataScienceInChemE/
 
 ---
 
